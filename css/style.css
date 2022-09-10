@@ -1,0 +1,129 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: cursive;
+}
+.header{
+    width: 100%;
+    height: 570px;
+    background-image: url(../img/pic-2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.header-text{
+    padding-top: 160px;
+    margin-left: 50px;
+    color: beige;
+}
+.header-text h1{
+    font-size: 35px;
+    line-height: 1.5;
+}
+.header-text p{
+    padding-bottom: 15px;
+}
+.header-text input{
+    padding: 6px;
+    width: 250px;
+    border-radius: 5px;
+}
+.header-text #button{
+    width: 80px;
+    background-color: aqua;
+    color: black;
+    border: 1px solid aqua;
+    padding: 6px;
+}
+.header .link{
+    padding-top: 30px;
+    margin-left: 50px;
+}
+.header .link a{
+    padding: 10px 25px;
+    background-color: brown;
+    color: aliceblue;
+    font-size: 17px;
+    margin: 0 15px;
+    border-radius: 10px;
+}
+.header-part-2{
+    padding: 100px;
+}
+.title{
+    text-align: center;
+}
+.header-part-2 .main-part{
+    padding-top: 100px;
+}
+.header-part-2 .main-part img{
+    padding-left: 200px;
+}
+.header-part-2 .main-part p{
+    margin-left: 500px;
+    text-align: justify;
+    width: 500px;
+    background-color: blueviolet;
+    padding: 20px;
+}
+.contact{
+    padding: 100px 0;
+}
+.contact-form{
+    padding-top: 100px;
+    text-align: center;
+}
+.contact-form form .input-box-1 input{
+    padding: 6px;
+    margin: 0 7px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+.contact-form form .input-box-2 input{
+    width: 360px;
+    padding: 6px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+.contact-form form .input-box-3 input{
+    width: 360px;
+    padding: 6px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+.contact-form form .input-box-4 input{
+    width: 50px;
+}
+.contact-form form .input-box-5{
+    padding-top: 15px;
+}
+.box{
+    padding: 50px;
+}
+.contact-form form .input-box-5 input{
+    width: 250px;
+    padding: 10px;
+    font-size: 18px;
+    background-color: aqua;
+    border-radius: 10px;
+}
+.box .para-box{
+    width: 300px;
+    margin-left: 200px;
+    text-align: justify;
+    background-color: blueviolet;
+    padding: 20px;
+    border-radius: 15px;
+}
+.box .para-box img{
+    width: 50px;
+}
+footer{
+    height: 200px;
+    background-color: aquamarine;
+    padding-top: 15px;
+    text-align: center;
+    border-top-left-radius: 200px;
+    border-bottom-right-radius: 200px;
+}
